@@ -1,0 +1,159 @@
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\bin\Debug\TimeTablingApplication.exe
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\bin\Debug\TimeTablingApplication.pdb
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.Form1.resources
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.Properties.Resources.resources
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.exe
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.pdb
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.Form2.resources
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\obj\x86\Debug\RdlCompile.cache
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\obj\x86\Debug\RdlCompile.compiled
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmScheduling.resources
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmLecturer.resources
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmSolution.resources
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmTime.resources
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.MainForm.resources
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.NewLecturer.resources
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmChooseLecturer.resources
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmCreateNewSolution.resources
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmLecturerDetails.resources
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmExperts.resources
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmLecturerTime.resources
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmSolutionDetails.resources
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmChooseThesis.resources
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmThesisDetails.resources
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmSolutionResult.resources
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmLecturerResult.resources
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmRoomResult.resources
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmLecturerReplace.resources
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmChooseSolution.resources
+D:\MasterCourse\luan van\dang lam\TimeTablingApplication\bin\Debug\itextsharp.dll
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\bin\Debug\TimeTablingApplication.exe
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\bin\Debug\TimeTablingApplication.pdb
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmChooseLecturer.resources
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmCreateNewSolution.resources
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.Form1.resources
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.Form2.resources
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmScheduling.resources
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmLecturer.resources
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmSolution.resources
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmSolutionResult.resources
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmTime.resources
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.MainForm.resources
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.NewLecturer.resources
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmLecturerDetails.resources
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmExperts.resources
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmLecturerTime.resources
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmSolutionDetails.resources
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmChooseThesis.resources
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmThesisDetails.resources
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmLecturerResult.resources
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmLecturerReplace.resources
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmRoomResult.resources
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmChooseSolution.resources
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.Properties.Resources.resources
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\RdlCompile.cache
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\RdlCompile.compiled
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.exe
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.pdb
+D:\CHAU\26_5_memoryfix_fixingMA\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.csproj.ResolveComReference.cache
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.csproj.ResolveComReference.cache
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.exe
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.pdb
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\bin\Debug\TimeTablingApplication.exe
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\bin\Debug\TimeTablingApplication.pdb
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmChooseLecturer.resources
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmCreateNewSolution.resources
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.Form1.resources
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.Form2.resources
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmScheduling.resources
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmLecturer.resources
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmSolution.resources
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmSolutionResult.resources
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmTime.resources
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.MainForm.resources
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.NewLecturer.resources
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmLecturerDetails.resources
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmExperts.resources
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmLecturerTime.resources
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmSolutionDetails.resources
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmChooseThesis.resources
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmThesisDetails.resources
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmLecturerResult.resources
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmLecturerReplace.resources
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmRoomResult.resources
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmChooseSolution.resources
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.Properties.Resources.resources
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\RdlCompile.cache
+D:\MASTER THESIS\PROGRAMMING\working_on_app\dang lam\TimeTablingApplication\obj\x86\Debug\RdlCompile.compiled
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.csproj.ResolveComReference.cache
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.exe
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.pdb
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\bin\Debug\TimeTablingApplication.exe
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\bin\Debug\TimeTablingApplication.pdb
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmChooseLecturer.resources
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmCreateNewSolution.resources
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.Form1.resources
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.Form2.resources
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmScheduling.resources
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmLecturer.resources
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmSolution.resources
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmSolutionResult.resources
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmTime.resources
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.MainForm.resources
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.NewLecturer.resources
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmLecturerDetails.resources
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmExperts.resources
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmLecturerTime.resources
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmSolutionDetails.resources
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmChooseThesis.resources
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmThesisDetails.resources
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmLecturerResult.resources
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmLecturerReplace.resources
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmRoomResult.resources
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmChooseSolution.resources
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.Properties.Resources.resources
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\RdlCompile.cache
+D:\MASTER THESIS\PROGRAMMING\code_hoan_chinh\code_hoan_chinh\project\TimeTablingApplication\obj\x86\Debug\RdlCompile.compiled
+D:\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.csproj.ResolveComReference.cache
+D:\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.exe
+D:\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.pdb
+D:\project\TimeTablingApplication\bin\Debug\TimeTablingApplication.exe
+D:\project\TimeTablingApplication\bin\Debug\TimeTablingApplication.pdb
+D:\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.csprojResolveAssemblyReference.cache
+D:\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmChooseLecturer.resources
+D:\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmCreateNewSolution.resources
+D:\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.Form1.resources
+D:\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.Form2.resources
+D:\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmScheduling.resources
+D:\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmLecturer.resources
+D:\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmSolution.resources
+D:\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmSolutionResult.resources
+D:\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmTime.resources
+D:\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.MainForm.resources
+D:\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.NewLecturer.resources
+D:\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmLecturerDetails.resources
+D:\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmExperts.resources
+D:\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmLecturerTime.resources
+D:\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmSolutionDetails.resources
+D:\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmChooseThesis.resources
+D:\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmThesisDetails.resources
+D:\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmLecturerResult.resources
+D:\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmLecturerReplace.resources
+D:\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmRoomResult.resources
+D:\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.frmChooseSolution.resources
+D:\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.Properties.Resources.resources
+D:\project\TimeTablingApplication\obj\x86\Debug\TimeTablingApplication.csproj.GenerateResource.Cache
+D:\project\TimeTablingApplication\obj\x86\Debug\RdlCompile.cache
+D:\project\TimeTablingApplication\obj\x86\Debug\RdlCompile.compiled

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Lecturer" targetNamespace="http://tempuri.org/Lecturer.xsd" xmlns:mstns="http://tempuri.org/Lecturer.xsd" xmlns="http://tempuri.org/Lecturer.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Lecturer" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="Lecturer" msprop:Generator_UserDSName="Lecturer">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="LuanVan" msprop:Generator_TableClassName="LuanVanDataTable" msprop:Generator_TableVarName="tableLuanVan" msprop:Generator_TablePropName="LuanVan" msprop:Generator_RowDeletingName="LuanVanRowDeleting" msprop:Generator_UserTableName="LuanVan" msprop:Generator_RowChangingName="LuanVanRowChanging" msprop:Generator_RowEvHandlerName="LuanVanRowChangeEventHandler" msprop:Generator_RowDeletedName="LuanVanRowDeleted" msprop:Generator_RowEvArgName="LuanVanRowChangeEvent" msprop:Generator_RowChangedName="LuanVanRowChanged" msprop:Generator_RowClassName="LuanVanRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MaLV" msprop:Generator_ColumnVarNameInTable="columnMaLV" msprop:Generator_ColumnPropNameInRow="MaLV" msprop:Generator_ColumnPropNameInTable="MaLVColumn" msprop:Generator_UserColumnName="MaLV" type="xs:string" minOccurs="0" />
+              <xs:element name="TenLV" msprop:Generator_ColumnVarNameInTable="columnTenLV" msprop:Generator_ColumnPropNameInRow="TenLV" msprop:Generator_ColumnPropNameInTable="TenLVColumn" msprop:Generator_UserColumnName="TenLV" type="xs:string" minOccurs="0" />
+              <xs:element name="TenSVTH" msprop:Generator_ColumnVarNameInTable="columnTenSVTH" msprop:Generator_ColumnPropNameInRow="TenSVTH" msprop:Generator_ColumnPropNameInTable="TenSVTHColumn" msprop:Generator_UserColumnName="TenSVTH" type="xs:string" minOccurs="0" />
+              <xs:element name="MaGVHD1" msprop:Generator_ColumnVarNameInTable="columnMaGVHD1" msprop:Generator_ColumnPropNameInRow="MaGVHD1" msprop:Generator_ColumnPropNameInTable="MaGVHD1Column" msprop:Generator_UserColumnName="MaGVHD1" type="xs:string" minOccurs="0" />
+              <xs:element name="MaGVHD2" msprop:Generator_ColumnVarNameInTable="columnMaGVHD2" msprop:Generator_ColumnPropNameInRow="MaGVHD2" msprop:Generator_ColumnPropNameInTable="MaGVHD2Column" msprop:Generator_UserColumnName="MaGVHD2" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="GiangVien" msprop:Generator_TableClassName="GiangVienDataTable" msprop:Generator_TableVarName="tableGiangVien" msprop:Generator_TablePropName="GiangVien" msprop:Generator_RowDeletingName="GiangVienRowDeleting" msprop:Generator_UserTableName="GiangVien" msprop:Generator_RowChangingName="GiangVienRowChanging" msprop:Generator_RowEvHandlerName="GiangVienRowChangeEventHandler" msprop:Generator_RowDeletedName="GiangVienRowDeleted" msprop:Generator_RowEvArgName="GiangVienRowChangeEvent" msprop:Generator_RowChangedName="GiangVienRowChanged" msprop:Generator_RowClassName="GiangVienRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MaGV" msprop:Generator_ColumnVarNameInTable="columnMaGV" msprop:Generator_ColumnPropNameInRow="MaGV" msprop:Generator_ColumnPropNameInTable="MaGVColumn" msprop:Generator_UserColumnName="MaGV" type="xs:string" minOccurs="0" />
+              <xs:element name="TenGV" msprop:Generator_ColumnVarNameInTable="columnTenGV" msprop:Generator_ColumnPropNameInRow="TenGV" msprop:Generator_ColumnPropNameInTable="TenGVColumn" msprop:Generator_UserColumnName="TenGV" type="xs:string" minOccurs="0" />
+              <xs:element name="BoMon" msprop:Generator_ColumnVarNameInTable="columnBoMon" msprop:Generator_ColumnPropNameInRow="BoMon" msprop:Generator_ColumnPropNameInTable="BoMonColumn" msprop:Generator_UserColumnName="BoMon" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1">
+      <xs:selector xpath=".//mstns:GiangVien" />
+      <xs:field xpath="mstns:MaGV" />
+    </xs:unique>
+    <xs:keyref name="FK_GiangVien_LuanVan1" refer="Constraint1" msdata:ConstraintOnly="true">
+      <xs:selector xpath=".//mstns:LuanVan" />
+      <xs:field xpath="mstns:MaGVHD2" />
+    </xs:keyref>
+    <xs:keyref name="FK_GiangVien_LuanVan" refer="Constraint1" msdata:ConstraintOnly="true">
+      <xs:selector xpath=".//mstns:LuanVan" />
+      <xs:field xpath="mstns:MaGVHD1" />
+    </xs:keyref>
+  </xs:element>
+</xs:schema>

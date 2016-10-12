@@ -1,0 +1,37 @@
+13// number of internal lecturers: IT_1, ..., IT_m1
+2// number of external lecturers: IT_m1+1, ..., IT_m
+10// number of jury: J1, ..., Jn
+0 30//
+//matrix
+	J1	J2	J3	J4	J5	J6	J7	J8	J9	J10
+IT1	3	3	3	2	3	3	3	3	2	0
+IT2	2	0	3	2	2	0	0	0	3	3
+IT3	2	2	0	0	0	3	0	0	3	3
+IT4	2	0	0	0	0	0	0	3	3	3
+IT5	0	2	0	0	2	0	0	0	2	3
+IT6	0	0	0	0	0	0	0	0	0	0
+IT7	0	0	0	0	0	0	0	0	0	0
+IT8	0	0	0	0	0	0	0	0	0	0
+IT9	0	0	0	3	0	0	0	0	0	0
+IT10	0	0	1	3	2	0	3	0	0	0
+IT11	1	0	0	0	3	0	3	3	0	0
+IT12	0	0	3	1	3	0	3	1	2	0
+IT13	3	2	3	2	1	3	1	0	3	0
+IT14	3	3	3	3	3	3	0	3	3	1
+IT15	3	1	0	3	3	1	3	3	1	3
+//unavailability
+IT1 0-6 17-18 25-26
+IT2 1-6
+IT3 0-1 4-8
+IT4 1-5 22-25 28-29
+IT5 8-15
+IT6 0-3
+IT7 4-8
+IT8
+IT9
+IT10 0-11
+IT11
+IT12 0-2 5-10
+IT13 0-1 10-11 23-30
+IT14
+IT15 23
